@@ -1,0 +1,26 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Edi6758/backend-node-sctruture-fieldhub.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Edi6758/backend-node-sctruture-fieldhub/issues"
+  },
+  "homepage": "https://github.com/Edi6758/backend-node-sctruture-fieldhub#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "reflect-metadata": "^0.1.13",
+    "sqlite3": "^5.1.4",
+    "typeorm": "^0.3.11"
+  }
+}
